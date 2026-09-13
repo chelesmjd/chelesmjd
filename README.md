@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm María Ángeles 👋
 
-<!--
-**chelesmjd/chelesmjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Data Science and Engineering student at CEU San Pablo University in Madrid.
 
-Here are some ideas to get you started:
+I'm interested in applied AI, automation and building technology that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- BSc in Data Science and Engineering — CEU San Pablo University
+- Deloitte Strategy Horizon Program
+- Exploring AI agents and automation
+
+## Technologies
+Python · SQL · JavaScript · R · PostgreSQL · Git
+
+## Selected Projects
+Check out my pinned projects below ↓
